@@ -1,7 +1,7 @@
 // App.js
 
 import './App.css';
-import Translator from './components/Translator';
+import Translator from './Translator';
 
 function App() {
   return (
